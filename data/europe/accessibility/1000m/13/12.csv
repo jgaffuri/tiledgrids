@@ -1,3 +1,3 @@
-x,y,TOT_P,avg_time_nearest_ep,avg_time_nearest_h
-127,1,3,NA,44
-127,2,8,NA,45
+x,y,CNTR_ID,TOT_P,avg_time_nearest_ep,avg_time_nearest_h
+127,1,PT,3,NA,44
+127,2,PT,8,NA,45
