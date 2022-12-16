@@ -1,0 +1,20 @@
+{
+   "dims": [
+      "CNTR_ID",
+      "tcd",
+      "dlt"
+   ],
+   "crs": "3035",
+   "tileSizeCell": 128,
+   "originPoint": {
+      "x": 0,
+      "y": 0
+   },
+   "resolutionGeo": 1000,
+   "tilingBounds": {
+      "yMin": 7,
+      "yMax": 42,
+      "xMax": 57,
+      "xMin": 7
+   }
+}
