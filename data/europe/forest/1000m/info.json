@@ -1,5 +1,6 @@
 {
    "dims": [
+      "CNTR_ID",
       "tcd",
       "dlt"
    ],
@@ -13,7 +14,7 @@
    "tilingBounds": {
       "yMin": 7,
       "yMax": 42,
-      "xMax": 57,
+      "xMax": 50,
       "xMin": 7
    }
 }
