@@ -1,0 +1,22 @@
+{
+   "dims": [
+      "CNTR_ID",
+      "pop2006",
+      "pop2011",
+      "pop2018"
+   ],
+   "crs": "3035",
+   "tileSizeCell": 128,
+   "format": "PARQUET",
+   "originPoint": {
+      "x": 0,
+      "y": 0
+   },
+   "resolutionGeo": 100000,
+   "tilingBounds": {
+      "yMin": 0,
+      "yMax": 0,
+      "xMax": 0,
+      "xMin": 0
+   }
+}
