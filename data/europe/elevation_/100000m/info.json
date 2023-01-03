@@ -1,0 +1,17 @@
+{
+   "dims": ["elevation"],
+   "crs": "3035",
+   "tileSizeCell": 256,
+   "format": "PARQUET",
+   "originPoint": {
+      "x": 0,
+      "y": 0
+   },
+   "resolutionGeo": 100000,
+   "tilingBounds": {
+      "yMin": 0,
+      "yMax": 0,
+      "xMax": 0,
+      "xMin": 0
+   }
+}
