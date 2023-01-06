@@ -1,0 +1,18 @@
+{
+   "dims": ["elevation"],
+   "crs": "EPSG:3035",
+   "tileSizeCell": 128,
+   "format": "CSV",
+   "description": "desc",
+   "originPoint": {
+      "x": 0,
+      "y": 0
+   },
+   "resolutionGeo": 100000,
+   "tilingBounds": {
+      "yMin": 0,
+      "yMax": 1,
+      "xMax": 1,
+      "xMin": 0
+   }
+}
