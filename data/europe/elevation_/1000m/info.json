@@ -1,8 +1,9 @@
 {
    "dims": ["elevation"],
-   "crs": "3035",
+   "crs": "EPSG:3035",
    "tileSizeCell": 256,
    "format": "PARQUET",
+   "description": "desc",
    "originPoint": {
       "x": 0,
       "y": 0
@@ -10,8 +11,8 @@
    "resolutionGeo": 1000,
    "tilingBounds": {
       "yMin": 3,
-      "yMax": 21,
-      "xMax": 28,
+      "yMax": 24,
+      "xMax": 32,
       "xMin": 7
    }
 }
