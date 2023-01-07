@@ -1,0 +1,24 @@
+{
+   "dims": [
+      "y2000",
+      "y1990",
+      "y2012",
+      "y2006",
+      "y2018"
+   ],
+   "crs": "EPSG:3035",
+   "tileSizeCell": 256,
+   "format": "PARQUET",
+   "description": "Corine Land Cover - Copernicus land monitoring - European commission",
+   "originPoint": {
+      "x": 0,
+      "y": 0
+   },
+   "resolutionGeo": 200,
+   "tilingBounds": {
+      "yMin": 17,
+      "yMax": 108,
+      "xMax": 145,
+      "xMin": 17
+   }
+}
