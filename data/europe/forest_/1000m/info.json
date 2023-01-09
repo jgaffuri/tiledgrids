@@ -1,0 +1,25 @@
+{
+   "dims": [
+      "tcd2018",
+      "dlt2018",
+      "dlt2015",
+      "tcd2015",
+      "dlt2012",
+      "tcd2012"
+   ],
+   "crs": "EPSG:3035",
+   "tileSizeCell": 256,
+   "format": "PARQUET",
+   "description": "Forest - Copernicus land monitoring - European commission",
+   "originPoint": {
+      "x": 0,
+      "y": 0
+   },
+   "resolutionGeo": 1000,
+   "tilingBounds": {
+      "yMin": 3,
+      "yMax": 22,
+      "xMax": 29,
+      "xMin": 3
+   }
+}
