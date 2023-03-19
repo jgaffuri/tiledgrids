@@ -1,0 +1,23 @@
+{
+   "dims": [
+      "imputed_2017",
+      "Ind_2015",
+      "imputed_2015",
+      "Ind_2017"
+   ],
+   "crs": "3035",
+   "tileSizeCell": 256,
+   "format": "CSV",
+   "description": "Filosofi population resolution 5000m",
+   "originPoint": {
+      "x": 0,
+      "y": 0
+   },
+   "resolutionGeo": 5000,
+   "tilingBounds": {
+      "yMin": 1,
+      "yMax": 2,
+      "xMax": 3,
+      "xMin": 2
+   }
+}
