@@ -1,0 +1,24 @@
+{
+   "dims": [
+      "agri",
+      "res",
+      "indus",
+      "comm_serv",
+      "TOT_P_2021"
+   ],
+   "crs": "3035",
+   "tileSizeCell": 128,
+   "format": "CSV",
+   "description": "Europe building statistics 2000m",
+   "originPoint": {
+      "x": 0,
+      "y": 0
+   },
+   "resolutionGeo": 2000,
+   "tilingBounds": {
+      "yMin": 3,
+      "yMax": 21,
+      "xMax": 25,
+      "xMin": 3
+   }
+}
