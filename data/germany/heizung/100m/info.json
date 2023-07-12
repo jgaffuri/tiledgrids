@@ -3,8 +3,8 @@
    "crs": "",
    "tileSizeCell": 128,
    "originPoint": {
-      "x": "4000000",
-      "y": "2600000"
+      "x": 4000000,
+      "y": 2600000
    },
    "resolutionGeo": 100,
    "tilingBounds": {
